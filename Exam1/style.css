@@ -1,0 +1,36 @@
+header {
+  background-color: rgb(221, 250, 188);
+  font-size: 15px;
+}
+
+main {
+  background-color: rgb(255, 219, 192);
+  padding: 5px;
+  font-size: 15px;
+}
+
+nav {
+  padding: 5px;
+}
+
+main ~ footer {
+  background-color: rgb(212, 183, 237);
+  padding: 5px;
+  font-size: 10px;
+}
+
+h1 {
+  text-align: left;
+  color: rgba(0, 157, 255, 0.936);
+}
+
+a {
+  color: rgba(46, 26, 20, 0.53);
+  font-size: 20px;
+  text-shadow: cadetblue;
+}
+
+a:hover {
+  color: rgb(255, 0, 38);
+  font-weight: bold;
+}
