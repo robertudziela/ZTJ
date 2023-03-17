@@ -1,2 +1,2 @@
-# ZTJ-Egzamin1
-Egzamin1
+# ZTJ-Training
+Simple projects
